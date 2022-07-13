@@ -10,6 +10,14 @@
 			"insignia-url": "",
 			"directorio": "cursos/curso-uno/index.html",
 			"certificados":[{}]
+		},
+		{
+		    "id": 2,
+			"nombre": "Curso de prueba 2",
+			"fecha-de-registro": "13/07/2022",
+			"insignia-url": "",
+			"directorio": "https://www.youtube.com/watch?v=li2WDMgHxD0&t=33s",
+			"certificados":[{}]
 		}
 	]
     }
