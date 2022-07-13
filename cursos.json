@@ -8,7 +8,7 @@
 			"nombre": "Como tomar un curso prueba",
 			"fecha-de-registro": "13/07/2022",
 			"insignia-url": "",
-			"directorio": "certificaciones/cursos/curso-uno/index.html",
+			"directorio": "/cursos/curso-uno/index.html",
 			"certificados":[{}]
 		}
 	]
