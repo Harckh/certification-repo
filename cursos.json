@@ -4,5 +4,19 @@
 	"fecha-de-registro": "13/07/2022",
 	"insignia-url": "",
 	"directorio": "curso-uno",
-	"certificados":[{}]
+	"certificados":[{
+		"rfc": "SERE980507380",
+		"apellidos": "Serrano Rojas",
+		"nombres": "Edgar",
+		"fecha-solicitud": "14/07/2022",
+		"evidencia": "https://github.com/Harckh/certification-repo.git",
+		"comentarios": "Me gusto muchos el curso, mis felicitaciones al chef",
+		"estado": "en revision"
+		"revisor":{
+			"rfc":"SERE980507380",
+			"apellidos": "Serrano Rojas",
+			"nombres": "Edgar",
+			"comentarios": ""
+		}
+	}]
 }]
