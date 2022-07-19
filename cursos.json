@@ -1,24 +1,32 @@
 {
-    "success": true,
-    "data": {
-        "count": 1,
-        "list": [
-		{
-		    "id": 1,
-			"nombre": "Como tomar un curso prueba",
-			"fecha-de-registro": "13/07/2022",
-			"insignia-url": "",
-			"directorio": "cursos/curso-uno/index.html",
-			"certificados":[{}]
-		},
-		{
-		    "id": 2,
-			"nombre": "Curso de prueba 2",
-			"fecha-de-registro": "13/07/2022",
-			"insignia-url": "",
-			"directorio": "https://www.youtube.com/watch?v=li2WDMgHxD0&t=33s",
-			"certificados":[{}]
-		}
-	]
-    }
+	"success": true,
+	"data": {
+		"count": 1,
+		"list": [{
+				"id": 1,
+				"nombre": "Como tomar un curso prueba",
+				"fecha-de-registro": "13/07/2022",
+				"insignia-url": "",
+				"directorio": "cursos/curso-uno/index.html",
+				"certificados": [{
+					"rfc": "NORA000",
+					"fecha": "20/07/2022"
+				}, {
+					"rfc": "SERE980507",
+					"fecha": "20/07/2022"
+				}]
+			},
+			{
+				"id": 2,
+				"nombre": "Curso de prueba 2",
+				"fecha-de-registro": "13/07/2022",
+				"insignia-url": "",
+				"directorio": "https://www.youtube.com/watch?v=li2WDMgHxD0&t=33s",
+				"certificados": [{
+					"rfc": "VAJL000000",
+					"fecha": "15/07/2022"
+				}]
+			}
+		]
+	}
 }
