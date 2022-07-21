@@ -1,44 +1,48 @@
-{"success":true,"message":"Repositorio Remoto","data": {
-		"count": 1,
+{
+	"success":true,
+	"message":"Repositorio Remoto",
+	"data": {
+		"count": 2,
 		"list": [{
-				"id": 1,
-				"nombre": "Como tomar un curso prueba",
-				"fecha-de-registro": "13/07/2022",
-				"insignia-url": "",
-				"directorio": "cursos/curso-uno/index.html",
-				"certificados": [{
-					"rfc": "NORA000000",
-					"fecha": "20/07/2022"
-				}, {
-					"rfc": "SERE980507",
-					"fecha": "20/07/2022"
-				}]
-			},
-			{
-				"id": 2,
-				"nombre": "Curso de prueba 2",
-				"fecha-de-registro": "13/07/2022",
-				"insignia-url": "",
-				"directorio": "https://www.youtube.com/watch?v=li2WDMgHxD0&t=33s",
-				"certificados": [{
-					"rfc": "VAJL000000",
-					"fecha": "15/07/2022"
-				},{
-					"rfc": "SERE980507",
-					"apellidos": "Serrano Rojas",
-					"nombres": "Edgar",
-					"fecha-solicitud": "19/07/2022",
-					"evidencia": "https://drive.google.com/drive/folders/1aGB9LiR1qMXnUf71ZvbxPQqCrIz1IAgH?usp=sharing",
-					"comentarios": "Solicitud de prueba",
-					"estado": "solicitud",
-					"revisor":{
-						"rfc":"NORA000000",
-						"apellidos": "Noches Rosas",
-						"nombres": "Alberto",
-						"comentarios": ""
-					}
-				}]
-			}
-		]
+			"id": 1,
+			"nombre": "Como tomar un curso prueba",
+			"fecha-de-registro": "13/07/2022",
+			"insignia-url": "",
+			"directorio": "cursos/curso-uno/index.html",
+			"descripcion": "Bienvenido al curso de introducción a la plataforma de cursos y certificaciones de Softitlan MX.",
+			"certificados": [{
+				"rfc": "NORA000000",
+				"fecha": "20/07/2022"
+			},{
+				"rfc": "SERE980507",
+				"fecha": "20/07/2022"
+			}]
+		},
+		{
+			"id": 2,
+			"nombre": "Curso de prueba 2",
+			"fecha-de-registro": "13/07/2022",
+			"insignia-url": "",
+			"directorio": "https://www.youtube.com/watch?v=li2WDMgHxD0&t=33s",
+			"descripcion": "Próximamente",
+			"certificados": [{
+				"rfc": "VAJL000000",
+				"fecha": "15/07/2022"
+			},{
+				"rfc": "SERE980507",
+				"apellidos": "Serrano Rojas",
+				"nombres": "Edgar",
+				"fecha-solicitud": "19/07/2022",
+				"evidencia": "https://drive.google.com/drive/folders/1aGB9LiR1qMXnUf71ZvbxPQqCrIz1IAgH?usp=sharing",
+				"comentarios": "Solicitud de prueba",
+				"estado": "solicitud",
+				"revisor":{
+					"rfc":"NORA000000",
+					"apellidos": "Noches Rosas",
+					"nombres": "Alberto",
+					"comentarios": ""
+				}
+			}]
+		}]
 	}
 }
