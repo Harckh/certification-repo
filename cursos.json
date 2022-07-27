@@ -13,6 +13,9 @@
 			"revisor":[{
 				"rfc": "SERE980507",
 				"nombre": "Edgar"
+			},{
+				"rfc": "MORA891106",
+				"nombre": "Amy"
 			}],
 			"certificados": [{
 				"rfc": "NORA000000",
