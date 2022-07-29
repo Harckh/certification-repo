@@ -7,7 +7,7 @@
 			"id": 1,
 			"nombre": "Curso de certificación",
 			"fecha-de-registro": "13/07/2022",
-			"insignia-url": "https://softitlan.com/taskmanager/resources/img/uploads/certificaciones-insigniacc.png",
+			"insignia": "https://softitlan.com/taskmanager/resources/img/uploads/certificaciones-insigniacc.png",
 			"directorio": "cursos/curso-uno/index.html",
 			"descripcion": "Bienvenido al curso de introducción a la plataforma de cursos y certificaciones de Softitlan MX.",
 			"revisor":[{
