@@ -17,37 +17,7 @@
 				"rfc": "ROJC010403",
 				"nombre": "Christopher"
 			}],
-			"certificados": [{
-				"rfc": "NORA000000",
-				"fecha": "20/07/2022"
-			},{
-				"rfc": "SERE980507",
-				"fecha": "20/07/2022"
-			},{
-				"rfc": "VAJL000000",
-				"fecha": "26/07/2022"
-			}]
-		},{
-			"id": 2,
-			"nombre": "Nueva certificación",
-			"fecha-de-registro": "13/07/2022",
-			"insignia": "https://softitlan.com/taskmanager/resources/img/uploads/certificaciones-insigniacc.png",
-			"directorio": "cursos/curso-uno/index.html",
-			"descripcion": "Introducción próximamente",
-			"revisor":[{
-				"rfc": "SERE980507",
-				"nombre": "Edgar"
-			}],
-			"certificados": [{
-				"rfc": "NORA000000",
-				"fecha": "20/07/2022"
-			},{
-				"rfc": "SERE980507",
-				"fecha": "20/07/2022"
-			},{
-				"rfc": "VAJL000000",
-				"fecha": "26/07/2022"
-			}]
+			"certificados": []
 		}]
 	}
 }
