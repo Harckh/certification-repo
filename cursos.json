@@ -1,35 +1,23 @@
 {
-  "success": true,
-  "data": {
-    "count": 1,
-      "list": [{
-      "id": 1,
-      "nombre": "Como tomar un curso prueba",
-      "fecha-de-registro": "13/07/2022",
-      "insignia-url": "",
-      "directorio": "cursos/curso-uno/index.html",
-      "certificados":[{
-        "rfc": "SERE980507380",
-        "apellidos": "Serrano Rojas",
-        "nombres": "Edgar",
-        "fecha-solicitud": "14/07/2022",
-        "evidencia": "https://github.com/Harckh/certification-repo.git",
-        "comentarios": "Me gusto muchos el curso, mis felicitaciones al chef",
-        "estado": "en revision"
-        "revisor":{
-          "rfc":"SERE980507380",
-          "apellidos": "Serrano Rojas",
-          "nombres": "Edgar",
-          "comentarios": ""
-      }]
-      },
-      {
-        "id": 2,
-        "nombre": "Curso de prueba 2",
-        "fecha-de-registro": "13/07/2022",
-        "insignia-url": "",
-        "directorio": "https://www.youtube.com/watch?v=li2WDMgHxD0&t=33s",
-        "certificados":[{}]
-    }]
-   }
+	"success":true,
+	"message":"Repositorio Remoto",
+	"data": {
+		"count": 1,
+		"list": [{
+			"id": 1,
+			"nombre": "Curso de certificación",
+			"fecha-de-registro": "13/07/2022",
+			"insignia": "https://softitlan.com/taskmanager/resources/img/uploads/certificaciones-insigniacc.png",
+			"directorio": "cursos/curso-uno/index.html",
+			"descripcion": "Bienvenido al curso de introducción a la plataforma de cursos y certificaciones de Softitlan MX.",
+			"revisor":[{
+				"rfc": "SERE980507",
+				"nombre": "Edgar"
+			},{
+				"rfc": "ROJC010403",
+				"nombre": "Christopher"
+			}],
+			"certificados": []
+		}]
+	}
 }
