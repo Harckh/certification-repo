@@ -2,7 +2,7 @@
 	"success":true,
 	"message":"Repositorio Remoto",
 	"data": {
-		"count": 2,
+		"count": 1,
 		"list": [{
 			"id": 1,
 			"nombre": "Curso de certificación",
@@ -17,7 +17,17 @@
 				"rfc": "ROJC010403",
 				"nombre": "Christopher"
 			}],
-			"certificados": []
+			"certificados": [{
+				"rfc": "SERE980507",
+				"apellidos": "Serrano Rojas",
+				"nombres": "Edgar",
+				"fecha-solicitud": "29/07/2022",
+				"evidencia": "https://drive.google.com/drive/folders/11TyB9FcB2b_Z5vp0dIZgaOEmyjmn5JRX?usp=sharing",
+				"comentarios": "Es un buen curso",
+				"revisor": {
+					"nombre": "Edgar Serrano Rojas"
+				}
+			}]
 		}]
 	}
 }
