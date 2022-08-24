@@ -1,11 +1,35 @@
 {
-	"rfc": "SAPJ010314",
-	"apellidos": "Sanchez Pelcastre",
-	"nombres": "Jeysson",
-	"fecha-solicitud": "24/08/2022",
-	"evidencia": "https://drive.google.com/drive/folders/1FOTgM_AjbnVjGyctSoy9OYFznsYlg2ep?usp=sharing",
-	"comentarios": "Me gusto esta parte de las certificaciones, las instrucciones e interfaz son entendibles, para mis gusto esta muy bien desarrollada",
-	"revisor": {
-		"nombre": "Edgar Serrano Rojas"
+	"success":true,
+	"message":"Repositorio Remoto",
+	"data": {
+		"count": 2,
+		"list": [{
+			"id": 1,
+			"nombre": "Curso de certificación",
+			"fecha-de-registro": "13/07/2022",
+			"insignia": "https://softitlan.com/taskmanager/resources/img/uploads/certificaciones-insigniacc.png",
+			"directorio": "cursos/curso-uno/index.html",
+			"descripcion": "Bienvenido al curso de introducción a la plataforma de cursos y certificaciones de Softitlan MX.",
+			"revisor":[{
+				"rfc": "SERE980507",
+				"nombre": "Edgar"
+			},{
+				"rfc": "ROJC010403",
+				"nombre": "Christopher"
+			}],
+			"certificados": [
+				{
+					"rfc": "SAPJ010314",
+					"apellidos": "Sanchez Pelcastre",
+					"nombres": "Jeysson",
+					"fecha-solicitud": "24/08/2022",
+					"evidencia": "https://drive.google.com/drive/folders/1FOTgM_AjbnVjGyctSoy9OYFznsYlg2ep?usp=sharing",
+					"comentarios": "Me gusto esta parte de la certificacion, las instrucciones son entendibles y la interfaz es agradable lo unico es que hay unas imágenes que no alcance a ver bien, pero para mi gusto todo estubo bien",
+					"revisor": {
+						"nombre": "Edgar Serrano Rojas"
+					}
+				}
+			]
+		}]
 	}
 }
