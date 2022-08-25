@@ -17,7 +17,19 @@
 				"rfc": "ROJC010403",
 				"nombre": "Christopher"
 			}],
-			"certificados": []
+			"certificados": [
+				{
+					"rfc": "POML990418",
+					"apellidos": "Pozos Montiel",
+					"nombres": "Luis Alfonso",
+					"fecha-solicitud": "24/08/2022",
+					"evidencia": "https://drive.google.com/drive/folders/1j6vAScV2X2XUGLac1ae0oPANarBBWs56?usp=sharing",
+					"comentarios": "El curso está bien explicado, en ocasiones es necesario repasar parte del curso, sin embargo el acceso es fácil. Otra cuestión a tomar en cuenta es la navegación, pues no existe un botón para volver al índice del curso.",
+					"revisor": {
+						"nombre": "Edgar Serrano Rojas"
+					}
+				}
+			]
 		}]
 	}
 }
