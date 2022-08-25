@@ -17,68 +17,7 @@
 				"rfc": "ROJC010403",
 				"nombre": "Christopher"
 			}],
-			"certificados": [{
-				"rfc": "SERE980507",
-				"apellidos": "Serrano Rojas",
-				"nombres": "Edgar",
-				"fecha-solicitud": "29/07/2022",
-				"evidencia": "https://drive.google.com/drive/folders/11TyB9FcB2b_Z5vp0dIZgaOEmyjmn5JRX?usp=sharing",
-				"comentarios": "Es un buen curso",
-				"revisor": {
-					"nombre": "Edgar Serrano Rojas"
-				}
-			}]
-		},
-		{
-			"id": 2,
-			"nombre": "Curso de certificación 2",
-			"fecha-de-registro": "13/07/2022",
-			"insignia": "https://softitlan.com/taskmanager/resources/img/uploads/cuponealo-logo-145.png",
-			"directorio": "cursos/curso-uno/index.html",
-			"descripcion": "Bienvenido al curso de introducción a la plataforma de cursos y certificaciones de Softitlan MX.",
-			"revisor":[{
-				"rfc": "SERE980507",
-				"nombre": "Edgar"
-			},{
-				"rfc": "ROJC010403",
-				"nombre": "Christopher"
-			}],
-			"certificados": [{
-				"rfc": "SERE980507",
-				"apellidos": "Serrano Rojas",
-				"nombres": "Edgar",
-				"fecha-solicitud": "29/07/2022",
-				"evidencia": "https://drive.google.com/drive/folders/11TyB9FcB2b_Z5vp0dIZgaOEmyjmn5JRX?usp=sharing",
-				"comentarios": "Es un buen curso",
-				"revisor": {
-					"nombre": "Edgar Serrano Rojas"
-				}
-			}]
-		},{
-			"id": 3,
-			"nombre": "Curso de certificación 3",
-			"fecha-de-registro": "13/07/2022",
-			"insignia": "https://softitlan.com/taskmanager/resources/img/uploads/cuponealo-logo-140.jpg",
-			"directorio": "cursos/curso-uno/index.html",
-			"descripcion": "Bienvenido al curso de introducción a la plataforma de cursos y certificaciones de Softitlan MX.",
-			"revisor":[{
-				"rfc": "SERE980507",
-				"nombre": "Edgar"
-			},{
-				"rfc": "ROJC010403",
-				"nombre": "Christopher"
-			}],
-			"certificados": [{
-				"rfc": "SERE980507",
-				"apellidos": "Serrano Rojas",
-				"nombres": "Edgar",
-				"fecha-solicitud": "29/07/2022",
-				"evidencia": "https://drive.google.com/drive/folders/11TyB9FcB2b_Z5vp0dIZgaOEmyjmn5JRX?usp=sharing",
-				"comentarios": "Es un buen curso",
-				"revisor": {
-					"nombre": "Edgar Serrano Rojas"
-				}
-			}]
+			"certificados": []
 		}]
 	}
 }
