@@ -2,7 +2,7 @@
 	"success":true,
 	"message":"Repositorio Remoto",
 	"data": {
-		"count": 2,
+		"count": 1,
 		"list": [{
 			"id": 1,
 			"nombre": "Curso de certificación",
@@ -25,6 +25,17 @@
 					"fecha-solicitud": "24/08/2022",
 					"evidencia": "https://drive.google.com/drive/folders/1FOTgM_AjbnVjGyctSoy9OYFznsYlg2ep?usp=sharing",
 					"comentarios": "Me gusto esta parte de la certificacion, las instrucciones son entendibles y la interfaz es agradable lo unico es que hay unas imágenes que no alcance a ver bien, pero para mi gusto todo estubo bien",
+   	      "revisor": {
+						"nombre": "Edgar Serrano Rojas"
+					} 
+        },    
+        {
+					"rfc": "POML990418",
+					"apellidos": "Pozos Montiel",
+					"nombres": "Luis Alfonso",
+					"fecha-solicitud": "24/08/2022",
+					"evidencia": "https://drive.google.com/drive/folders/1j6vAScV2X2XUGLac1ae0oPANarBBWs56?usp=sharing",
+					"comentarios": "El curso está bien explicado, en ocasiones es necesario repasar parte del curso, sin embargo el acceso es fácil. Otra cuestión a tomar en cuenta es la navegación, pues no existe un botón para volver al índice del curso.",
 					"revisor": {
 						"nombre": "Edgar Serrano Rojas"
 					}
