@@ -59,17 +59,17 @@
 							"nombre": "Edgar Serrano Rojas"
 						}
 					},
-          {
-            "rfc": "MEBE010603",
-            "apellidos": "Meneses Baez",
-            "nombres": "Esau Abraham",
-            "fecha-solicitud": "02/09/2022",
-            "evidencia": "https://drive.google.com/drive/folders/1CrL0r2GnGk5xIWrxRKh1PldAmOIam-vY?usp=sharing",
-            "comentarios": "Me parece excelente el curso, aunque puede llegar a ser confuso el llenar algo que se presenta despues.",
-            "revisor": {
-              "nombre": "Edgar Serrano Rojas"
-            }
-          }
+					{
+						"rfc": "MEBE010603",
+						"apellidos": "Meneses Baez",
+						"nombres": "Esau Abraham",
+						"fecha-solicitud": "02/09/2022",
+						"evidencia": "https://drive.google.com/drive/folders/1CrL0r2GnGk5xIWrxRKh1PldAmOIam-vY?usp=sharing",
+						"comentarios": "Me parece excelente el curso, aunque puede llegar a ser confuso el llenar algo que se presenta despues.",
+						"revisor": {
+						         "nombre": "Edgar Serrano Rojas"
+						}
+					}
 				]
 			}
 		]
