@@ -69,7 +69,18 @@
 						"revisor": {
 						         "nombre": "Edgar Serrano Rojas"
 						}
-					}
+					},
+					{
+						"rfc": "VAJL000000",
+						"apellidos": "Vázquez Flores",
+						"nombres": "Laura",
+						"fecha-solicitud": "05/09/2022",
+						"evidencia": "https://drive.google.com/drive/folders/1iVHCxJ_FRi3e85VoMJK7Z7v4CJ9iYwkv?usp=sharing",
+						"comentarios": "Un curso muy bueno, jajaja pues nosotros lo hicimos xd",
+						"revisor": {
+							"nombre": "Edgar Serrano Rojas"
+					    }
+				    }
 				]
 			}
 		]
