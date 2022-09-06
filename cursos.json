@@ -80,7 +80,18 @@
 						"revisor": {
 							"nombre": "Edgar Serrano Rojas"
 					    }
-				    }
+				    },
+					{
+						"rfc": "MOPA990912",
+						"apellidos": "Morales Pasten",
+						"nombres": "Abisai",
+						"fecha-solicitud": "05/09/2022",
+						"evidencia": "https://drive.google.com/drive/folders/1NRjGoP30ejmwMJT6b4Nvzdx6cPImxuWF?usp=sharing",
+						"comentarios": "Curso basico y entendible aunque en ocasiones un poco confusas las instrucciones",
+						"revisor": {
+							"nombre": "Alberto"
+						}
+					}
 				]
 			}
 		]
