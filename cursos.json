@@ -91,7 +91,18 @@
 						"revisor": {
 							"nombre": "Alberto"
 						}
-					}
+					},
+                    {
+                        "rfc": "ROJC010403",
+                        "apellidos": "Rojano Jimenez",
+                        "nombres": "Christopher",
+                        "fecha-solicitud": "05/09/2022",
+                        "evidencia": "https://drive.google.com/drive/folders/1uVbii8ocSap3z_3ucur0qG2b8HNYMSDr?usp=sharing",
+                        "comentarios": "Muy buen curso, todo esta explicado de maravilla. Algo a tomar en cuenta es el hecho de que es necesario tener conocimientos en git para tomar el curso, sería bueno cambiar la manera de evaluar o tener un curso de git para mitigar eso, de cualquier forma las instrucciones son entendibles. Por lo demás esta muy bueno el curso :3",
+                        "revisor": {
+                            "nombre": "Edgar Serrano Rojas"
+                        }
+                    }
 				]
 			}
 		]
