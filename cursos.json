@@ -102,6 +102,17 @@
 						"revisor": {
 						    "nombre": "Edgar Serrano Rojas"
 						}
+				    	},
+				    	{
+						"rfc": "SERE980507",
+						"apellidos": "Serrano Rojas",
+						"nombres": "Edgar",
+						"fecha-solicitud": "08/09/2022",
+						"evidencia": "https://drive.google.com/drive/folders/11TyB9FcB2b_Z5vp0dIZgaOEmyjmn5JRX?usp=sharing",
+						"comentarios": "Fue bastante entendible el curso",
+						"revisor": {
+						    "nombre": "Edgar Serrano Rojas"
+						}
 				    	}
 				]
 			}
