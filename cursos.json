@@ -113,6 +113,17 @@
 						"revisor": {
 							"nombre": "Edgar Serrano Rojas"
 						}
+					},
+					{
+						"rfc": "SALE000831",
+						"apellidos": "Sanluis Lopez",
+						"nombres": "Esli Merari",
+						"fecha-solicitud": "09/09/2022",
+						"evidencia": "https://drive.google.com/drive/folders/1GWeaGQnd3B6ZxVwCRd7PU2gNMHysS4tx",
+						"comentarios": "Gracias por el curso. Es entendible",
+						"revisor": {
+							"nombre": "Edgar Serrano Rojas"
+						}
 					}
 				]
 			}
