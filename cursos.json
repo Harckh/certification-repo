@@ -124,6 +124,17 @@
 						"revisor": {
 							"nombre": "Edgar Serrano Rojas"
 						}
+					},
+					{
+						"rfc": "BAGJ011004",
+						"apellidos": "Barrales Galvez",
+						"nombres": "Josue",
+						"fecha-solicitud": "19/09/2022",
+						"evidencia": "https://drive.google.com/drive/folders/1UBsdXB9bCRbbQ2XxU7T8NW45qpL1X2XS?usp=sharing",
+						"comentarios": "Me parece que es un buen curso, sencillo pero muy importante",
+						"revisor": {
+							"nombre": "Edgar Serrano Rojas"
+						}
 					}
 				]
 			}
