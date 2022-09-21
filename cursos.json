@@ -135,6 +135,17 @@
 						"revisor": {
 							"nombre": "Edgar Serrano Rojas"
 						}
+					}, 
+					{
+						"rfc": "TOFA0107159BA",
+						"apellidos": "Toscuento Flores",
+						"nombres": "Alejandro",
+						"fecha-solicitud": "21/09/2022",
+						"evidencia": "https://drive.google.com/drive/folders/1UBsdXB9bCRbbQ2XxU7T8NW45qpL1X2XS?usp=sharing",
+						"comentarios": "El curso es interesante, me gusto que se implementara con json",
+						"revisor": {
+							"nombre": "Edgar Serrano Rojas"
+						}
 					}
 				]
 			}
