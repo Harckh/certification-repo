@@ -146,9 +146,21 @@
 						"revisor": {
 							"nombre": "Edgar Serrano Rojas"
 						}
+					},
+					{			
+						"rfc": "AURE830226",
+						"apellidos": "AHUMADA RAMIREZ",
+						"nombres": "ENRIQUE ALEJANDRO",
+						"fecha-solicitud": "21/09/2022",
+						"evidencia": "https://drive.google.com/file/d/1sh_wR-xNznO6Kf_mKx6vSUPyaJZIhyC7/view?usp=sharing",
+						"comentarios": "ME GUSTO MUCHO LA CERTIFICACION",
+						"revisor": {
+							"nombre": "EDGAR SERRANO ROJAS"
+						}
 					}
 				]
 			}
 		]
 	}
 }
+						
