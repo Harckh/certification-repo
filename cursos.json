@@ -157,6 +157,17 @@
 						"revisor": {
 							"nombre": "EDGAR SERRANO ROJAS"
 						}
+					},
+					{
+						"rfc": "bece880110",
+						"apellidos": "Bernal Castro",
+						"nombres": "Eberth Emmanuel",
+						"fecha-solicitud": "22/09/2022",
+						"evidencia": "https://drive.google.com/file/d/13aoEV1j2e_rO43tq_YjiECSlAu8wbS03/view?usp=sharing",
+						"comentarios": "Muy buen curso para iniciar la parte de certificciones",
+						"revisor": {
+							"nombre": "Edgar"
+						}
 					}
 				]
 			}
