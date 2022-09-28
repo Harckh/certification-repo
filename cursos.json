@@ -201,6 +201,17 @@
             "revisor": {
               "nombre": "Edgar Serrano Rojas"
             }
+          },
+          {
+            "rfc": "EILJ001016",
+            "apellidos": "Espinoza Lazaro",
+            "nombres": "Jesus Emanuel",
+            "fecha-solicitud": "27/09/2022",
+            "evidencia": "https://drive.google.com/drive/folders/1aMU3yVbHvGVV685pVUZZA8wwQmPBXG1N?usp=sharing",
+            "comentarios": "Buen curso sobre git",
+            "revisor": {
+              "nombre": "Edgar Serrano Rojas"
+            }
           }
         ]
       }
