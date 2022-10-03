@@ -211,7 +211,8 @@
             "comentarios": "Buen curso sobre git",
             "revisor": {
               "nombre": "Edgar Serrano Rojas"
-            },
+            }
+          },
             {
             "rfc": "ROMO990930",
             "apellidos": "Romero Macias",
