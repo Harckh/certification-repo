@@ -211,6 +211,16 @@
             "comentarios": "Buen curso sobre git",
             "revisor": {
               "nombre": "Edgar Serrano Rojas"
+            },
+            {
+            "rfc": "ROMO990930",
+            "apellidos": "Romero Macias",
+            "nombres": "Orlando",
+            "fecha-solicitud": "03/10/2022",
+            "evidencia": "https://drive.google.com/file/d/1lxRSYWD_sdZMPrqrHFqCYER2ywqhzwmI/view?usp=sharing",
+            "comentarios": "El curso es bastante dinamico",
+            "revisor": {
+              "nombre": "Edgar Serrano Rojas"
             }
           }
         ]
