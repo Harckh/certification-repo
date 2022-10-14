@@ -234,6 +234,17 @@
             "revisor": {
               "nombre": "Edgar Serrano Rojas"
             }
+          },
+          {
+            "rfc": "AACE000708",
+            "apellidos": "Alba Chávez",
+            "nombres": "Ernesto",
+            "fecha-solicitud": "14/10/2022",
+            "evidencia": "https://drive.google.com/drive/folders/1dlafo8aod7Be5yna0M9gFjbhbtIoJm5a?usp=sharing",
+            "comentarios": "Me gusto mucho el curso",
+            "revisor": {
+              "nombre": "Edgar Serrano Rojas"
+            }
           }
         ]
       }
